@@ -1,1 +1,1 @@
-# longtest
+# autotest
